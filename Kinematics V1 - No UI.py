@@ -46,5 +46,6 @@ print("X - J2: ", X_axis_J2(a1, a2))
 print("Y - J2: ", Y_axis_J2(a1, a2))
 print("X - EP: ", X_axis_End(a1, a2, a3))
 print("Y - EP: ", Y_axis_End(a1, a2, a3))
+print("T Head Angle:", a1 + a2 + a3)
 print("--------------------------")
 
