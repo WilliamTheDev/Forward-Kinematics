@@ -1,13 +1,13 @@
 import math
 
 #Link Lengths
-L1 = 100
-L2 = 80
-L3 = 20 
+L1 = #Link 1
+L2 = #Link 2
+L3 = #Link 3
 #Angles
-a1 = 20 
-a2 = 30 
-a3 = -5 
+a1 = #Angle 1
+a2 = #Angle 2
+a3 = #Angle 3
 
 #The Y position of {4}
 def Y_axis_End(a1, a2, a3):
