@@ -1,4 +1,4 @@
-# Foward-Kinematics 
+# Forward-Kinematics 
 
 A modular 4-axis kinematics rig. That anyone can easily use.
 
