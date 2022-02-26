@@ -1,16 +1,18 @@
 # Foward-Kinematics 
 
-A modular, customizable and easy-to-use 4-Axis forward-kinematic rig.
+A modular 4-axis kinematics rig. That anyone can easily use.
 
 Lastest Verison: 0.10 (Beta)
 
-# What's foward Kinematics?
+# What's forward kinematics?
 
-Foward kinematics is the acting of computing the End-effector from the specified parameters of the joints. By calculating the End-effector, we are able to do highly accurate positioning of the robotic arm. 
+Forward kinematics is the act of computing the end-effector from the parameters of each arm joint. By calculating this, we can precisely control the motion of the robotic arm in three-dimensional space.
 
-# How to use?
+- [The Math Behind Forward Kinematics](https://github.com/WilliamTheDev/Foward-Kinematics/blob/main/Math.md)
 
-If your only using the raw-data option, you shouldn't need to install any other programs. But if you chose to run the robotic arm visualisation program. You will need to install vpython. 
+# How to run it?
+
+If you're only using the raw-data option, you shouldn't need to install any additional programs. But if you chose to run the robotic arm visualisation program. You will need to install vpython. 
 
 Run the command below in your terminal
 
