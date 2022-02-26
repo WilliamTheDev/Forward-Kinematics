@@ -7,15 +7,15 @@ import math
 #These conditions are the following:
 
 #Link Lengths
-L1 = 100
-L2 = 80
-L3 = 20 
+L1 = 0
+L2 = 0
+L3 = 0
 
 #Angles | Degress to radians
-Theta1 = 45 * math.pi/180 #joint Angle 1 
-Theta2 = 10 * math.pi/180 #joint Angle 2
-Theta3 = 5 * math.pi/180 #joint Angle 3 
-Theta4 = 90 * math.pi/180 #Z Angle 4
+Theta1 = 0 * math.pi/180 #joint Angle 1 
+Theta2 = 0 * math.pi/180 #joint Angle 2
+Theta3 = 0 * math.pi/180 #joint Angle 3 
+Theta4 = 0 * math.pi/180 #Z Angle 4
 
 # - W!lliam - 2022 | WilliamTheDev On Github
 
