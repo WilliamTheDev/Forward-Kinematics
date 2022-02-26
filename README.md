@@ -1,4 +1,4 @@
-# Forward-Kinematics 
+# Forward-Kinematics (visualisation program not done)
 
 A modular 4-axis kinematics rig. That anyone can easily use.
 
