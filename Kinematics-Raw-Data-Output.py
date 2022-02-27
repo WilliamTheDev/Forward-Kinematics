@@ -25,7 +25,7 @@ def Joint_2(): #Joint One Position (X, Y)
 
 def Joint_3(): #Joint Two Position (X, Y)
     J3 = [L1 * math.cos(Theta1) + L2 * math.cos(Theta1 + Theta2),
-          L2 * math.sin(Theta1) + L2 * math.cos(Theta1 + Theta2)]
+          L2 * math.sin(Theta1) + L2 * math.sin(Theta1 + Theta2)]
     return J3
 
 def End_Frame(): #Joint Three Position (X, Y)
