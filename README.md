@@ -8,7 +8,7 @@ Lastest Verison: 0.10 (Beta)
 
 Forward kinematics is the act of computing the end-effector from the parameters of each arm joint. By calculating this, we can precisely control the motion of the robotic arm in three-dimensional space.
 
-- [The Math Behind Forward Kinematics](https://github.com/WilliamTheDev/Foward-Kinematics/blob/main/Math.md)
+- [The Math Behind Forward Kinematics](https://github.com/WilliamTheDev/Foward-Kinematics/blob/main/math.md)
 
 # How to run it?
 
