@@ -2,7 +2,8 @@
 
 A modular 4-axis kinematics rig. That anyone can easily use.
 
-Lastest Verison: 0.10 (Beta)
+Lastest Verison: 0.20 (Beta)
+- Visualisation 
 
 # What's forward kinematics?
 
