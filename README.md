@@ -1,6 +1,6 @@
 # Forward-Kinematics (visualisation program not done)
 
-A modular 4-axis kinematics rig. That anyone can easily use.
+A modular 3-axis kinematics rig. That anyone can easily use.
 
 Lastest Verison: 0.10 (Beta)
 
